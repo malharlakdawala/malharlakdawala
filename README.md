@@ -1,67 +1,29 @@
+# Hi, I'm Malhar 👋
 
-# Hi, I'm malharlakdawala 👋
+I build AI-powered automation tools and workflows that help businesses scale their operations.
 
-AI Workflow Automation | AI Agents | n8n | make.com | Claude Code
+## What I'm working on
 
----
+- **AI Agents** — Multi-agent systems for research, outreach, and data processing using Claude
+- **CRM Automation** — Workflow automations connecting Close, HubSpot, Airtable, and Notion
+- **Data Pipelines** — RAG pipelines, web scraping, and lead enrichment tools
+- **Developer Tools** — CLI tools and workflow engines for AI-powered tasks
 
+## Tech Stack
 
-## 🛠️ Tech Stack
+`Python` `TypeScript` `Claude API` `n8n` `Make.com` `Streamlit` `FastAPI` `Next.js` `PostgreSQL` `Redis` `ChromaDB`
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+## Recent Projects
 
-
-## About Me
-
-As a dedicated AI Workflow Automation Specialist and Focused Engineer, I excel in crafting sophisticated web applications and optimizing technical workflows. My core expertise lies in developing robust workflows interfaces coupled with efficient backend logic, delivering full-stack solutions that meet demanding business requirements.
-
-My current focus is heavily invested in **AI workflow automation**, where I design and implement intelligent systems using leading platforms such as **n8n, Make.com, AI Agents, and Claude Code**. I possess proven experience in integrating critical business tools, including **Hubspot, Close, Airtable, and GoHighLevel**, to establish perfectly streamlined and efficient automation pipelines. This work consistently aims to drive operational excellence and deliver significant business impact.
-
-My development approach is characterized by a Casual 🌱 grind score, reflecting a commitment to sustainable, high-quality contributions.
-
----
-
-## Core Skills
-
-A specialist with a diverse tech skillset, focused on delivering comprehensive solutions.
-
-**Languages:**
-Python, JavaScript, TypeScript, HTML, CSS
-
-**Frameworks & Libraries:**
-Vue
-
-**Tools & Platforms:**
-Jupyter Notebook, npm, pip
+| Project | Description |
+|---------|-------------|
+| [ai-doc-pipeline](https://github.com/malharlakdawala/ai-doc-pipeline) | RAG pipeline for document Q&A with Claude |
+| [stock-analyzer](https://github.com/malharlakdawala/stock-analyzer) | Multi-agent stock analysis CLI for Indian markets |
+| [prospect-outreach](https://github.com/malharlakdawala/prospect-outreach) | AI prospect research and email sequence generator |
+| [slack-ai-bot](https://github.com/malharlakdawala/slack-ai-bot) | Slack bot for thread summarization and Q&A |
+| [meeting-notes-ai](https://github.com/malharlakdawala/meeting-notes-ai) | Whisper transcription + Claude meeting notes |
+| [data-scraper-toolkit](https://github.com/malharlakdawala/data-scraper-toolkit) | Web scraping toolkit with AI extraction |
 
 ---
 
-## Featured Projects
-
-Here are some of my key projects demonstrating my technical expertise and problem-solving capabilities.
-
-### 1. [gcc-deal-flow](https://github.com/malharlakdawala/gcc-deal-flow)
-- **Description:** GCC Deal Flow
-- **Technologies:** Next.js, TypeScript, npm
-
-### 2. [stock-analyzer](https://github.com/malharlakdawala/stock-analyzer)
-- **Description:** No description provided.
-- **Technologies:** TypeScript, npm
-
-### 3. [prospect-outreach](https://github.com/malharlakdawala/prospect-outreach)
-- **Description:** No description provided.
-- **Technologies:** pip
-
----
-
-## GitHub Stats
-
-| Metrics | Value |
-| :------ | :---- |
-| Total Stars | 0 ⭐ |
-| Total Forks | 1 🍴 |
-| Followers | 0 |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malharlakdawala&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333&bg_color=ffffff" alt="malharlakdawala's GitHub stats" />
-</p>
+*Building at the intersection of AI and business automation*
