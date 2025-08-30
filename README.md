@@ -13,7 +13,7 @@ I build AI-powered automation tools and workflows that help businesses scale the
 
 `Python` `TypeScript` `Claude API` `n8n` `Make.com` `Streamlit` `FastAPI` `Next.js` `PostgreSQL` `Redis` `ChromaDB`
 
-## Recent Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
