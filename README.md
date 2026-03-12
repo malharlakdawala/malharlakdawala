@@ -13,7 +13,7 @@ I build AI-powered automation tools and workflows that help businesses scale the
 
 `Python` `TypeScript` `Claude API` `n8n` `Make.com` `Streamlit` `FastAPI` `Next.js` `PostgreSQL` `Redis` `ChromaDB`
 
-## Featured Projects
+## Recent Projects
 
 | Project | Description |
 |---------|-------------|
@@ -27,3 +27,5 @@ I build AI-powered automation tools and workflows that help businesses scale the
 ---
 
 *Building at the intersection of AI and business automation*
+
+![Profile views](https://komarev.com/ghpvc/?username=malharlakdawala&color=blueviolet)
