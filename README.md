@@ -1,7 +1,7 @@
 
 # Hi, I'm malharlakdawala 👋
 
-Python Frontend Development Specialist | Focused Engineer
+AI Workflow Automation | AI Agents | n8n | make.com | Claude Code
 
 ---
 
@@ -13,7 +13,7 @@ Python Frontend Development Specialist | Focused Engineer
 
 ## About Me
 
-As a dedicated Python Frontend Development Specialist and Focused Engineer, I excel in crafting sophisticated web applications and optimizing technical workflows. My core expertise lies in developing robust frontend interfaces coupled with efficient backend logic, delivering full-stack solutions that meet demanding business requirements.
+As a dedicated AI Workflow Automation Specialist and Focused Engineer, I excel in crafting sophisticated web applications and optimizing technical workflows. My core expertise lies in developing robust workflows interfaces coupled with efficient backend logic, delivering full-stack solutions that meet demanding business requirements.
 
 My current focus is heavily invested in **AI workflow automation**, where I design and implement intelligent systems using leading platforms such as **n8n, Make.com, AI Agents, and Claude Code**. I possess proven experience in integrating critical business tools, including **Hubspot, Close, Airtable, and GoHighLevel**, to establish perfectly streamlined and efficient automation pipelines. This work consistently aims to drive operational excellence and deliver significant business impact.
 
