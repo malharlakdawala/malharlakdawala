@@ -1,31 +1,31 @@
 # Hi, I'm Malhar 👋
 
-I build AI-powered automation tools and workflows that help businesses scale their operations.
+AI Automation Engineer building agentic tools, workflow engines, and AI-native developer tooling.
 
 ## What I'm working on
 
-- **AI Agents** — Multi-agent systems for research, outreach, and data processing using Claude
-- **CRM Automation** — Workflow automations connecting Close, HubSpot, Airtable, and Notion
+- **AI Agents** — Multi-agent systems for research, outreach, analysis, and data processing using Claude
+- **Developer Tools** — MCP servers, workflow testing frameworks, and CLI tools for AI-powered tasks
+- **CRM & Ops Automation** — Workflow automations connecting Close, HubSpot, Airtable, Notion, and n8n
 - **Data Pipelines** — RAG pipelines, web scraping, and lead enrichment tools
-- **Developer Tools** — CLI tools and workflow engines for AI-powered tasks
 
 ## Tech Stack
 
-`Python` `TypeScript` `Claude API` `n8n` `Make.com` `Streamlit` `FastAPI` `Next.js` `PostgreSQL` `Redis` `ChromaDB`
+`Python` `TypeScript` `Claude API` `Next.js` `n8n` `Supabase` `Prisma` `FastAPI` `Streamlit` `PostgreSQL` `Redis` `ChromaDB`
 
-## Recent Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
+| [blitzapi-opensource](https://github.com/malharlakdawala/blitzapi-opensource) | Open-source Apollo.io-style lead-sourcing UI powered by the Blitz API |
+| [taskflow](https://github.com/malharlakdawala/taskflow) | Self-hosted, ClickUp-style task manager with a built-in MCP server — Next.js 16, Supabase, Prisma 7 |
+| [flowproof](https://github.com/malharlakdawala/flowproof) | Deterministic testing for n8n workflows — lint, auto-generate branch-coverage tests, score what's untested |
 | [ai-doc-pipeline](https://github.com/malharlakdawala/ai-doc-pipeline) | RAG pipeline for document Q&A with Claude |
 | [stock-analyzer](https://github.com/malharlakdawala/stock-analyzer) | Multi-agent stock analysis CLI for Indian markets |
-| [prospect-outreach](https://github.com/malharlakdawala/prospect-outreach) | AI prospect research and email sequence generator |
-| [slack-ai-bot](https://github.com/malharlakdawala/slack-ai-bot) | Slack bot for thread summarization and Q&A |
-| [meeting-notes-ai](https://github.com/malharlakdawala/meeting-notes-ai) | Whisper transcription + Claude meeting notes |
-| [data-scraper-toolkit](https://github.com/malharlakdawala/data-scraper-toolkit) | Web scraping toolkit with AI extraction |
+| [prospect-outreach](https://github.com/malharlakdawala/prospect-outreach) | AI prospect research and personalized email sequence generator |
 
 ---
 
-*Building at the intersection of AI and business automation*
+*Building at the intersection of AI and automation*
 
 ![Profile views](https://komarev.com/ghpvc/?username=malharlakdawala&color=blueviolet)
